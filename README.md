@@ -1,2 +1,2 @@
-# Cpp_For_DS_with_phitron
+# Cpp_Fundamental
 <P>This repository is intended to store C++ practice problems </P>
